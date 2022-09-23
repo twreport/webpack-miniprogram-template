@@ -1,0 +1,8 @@
+/**index.wxss**/
+.usermotto {
+  margin-top: 100px;
+}
+
+.money-num{
+    font-size: 60rpx;
+  }
